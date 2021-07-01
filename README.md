@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mariana</h1>
-<h3 align="center">A passionate full developer from Argentina</h3>
+<h3 align="center"> I´m a Fullstack developer with knowledge in React'Redux and NodeJs looking for new challenges in software development!!! I´ve started programming in 2018 and studied data science, deep learning, and math.
+I am a Pharmacist with skills achieved after working in pharmaceutical companies and now I became the owner of two Pharmacies. Now I´m looking for a change in my career.</h3>
 
 - 🌱 I’m currently learning **Typescript**
 
