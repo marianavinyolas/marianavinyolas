@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariana</h1>
-<h3 align="center"> I´m a frontend developer looking for new challenges. I'm passionate about solving problems, learning new technologies, and mastering the ones I already know. I enjoy teamwork, understanding my mates' code, and listening to advise from them to improve my code.</h3>
-
-- 🌱 I’m currently learning **Typescript** and **Tailwind**
+<h3 align="center"> I'm a software developer with several years of experience building web applications. I transitioned from pharmacist to software development, combining my problem-solving skills with technology. I’m passionate about learning, and continuously improving my skills. I perform at my best in collaborative environments where I can contribute to meaningful projects and align with the company’s goals. I’m excited to bring my expertise to a team that values innovation and impact.</h3>
 
 - 📫 How to reach me **marianavinyolas@gmail.com**
 
